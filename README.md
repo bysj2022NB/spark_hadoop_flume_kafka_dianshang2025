@@ -1,0 +1,2 @@
+# spark_hadoop_flume_kafka_dianshang2025
+计算机毕业设计Spark+Hadoop+Kafka+Flume实时电商用户数据分析与预测 电商用户画像系统 用户行为分析 电商日志分析 大数据毕业设计 机器学习
